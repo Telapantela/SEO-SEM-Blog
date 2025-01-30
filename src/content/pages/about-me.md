@@ -32,6 +32,6 @@ My legal background instills a high level of precision and discipline in my work
 
 Are you ready to improve your SEO, enhance your online presence, or build a high-performing website? Let’s discuss how we can collaborate to achieve your digital goals.
 
-Explore my work on [GitHub](https://github.com), connect with me on [LinkedIn](https://www.linkedin.com/in/du%C5%A1an-spasojevi%C4%87-99093b281/), or check out my website’s [PageSpeed Insights (Desktop)](https://www.pagespeedinsights.com) and [PageSpeed Insights (Mobile)](https://www.pagespeedinsights.com) to see how I optimize websites for optimal performance. Let’s create something amazing together!
+Explore my work on [GitHub](https://github.com), connect with me on [LinkedIn](https://www.linkedin.com/in/du%C5%A1an-spasojevi%C4%87-99093b281/), or check out my website’s [PageSpeed Insights (Desktop)](https://pagespeed.web.dev/analysis/https-www-dusanspasojevic-com/74zd5g2bk6?form_factor=desktop) and [PageSpeed Insights (Mobile)](https://pagespeed.web.dev/analysis/https-www-dusanspasojevic-com/74zd5g2bk6?form_factor=mobile) to see how I optimize websites for optimal performance. Let’s create something amazing together!
 
 ---
