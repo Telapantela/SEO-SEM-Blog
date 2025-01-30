@@ -1,0 +1,61 @@
+{
+  "main": [
+    {
+      "name": "Blog & News",
+      "url": "/blog"
+    },
+    {
+      "name": "Pricing",
+      "url": "/pricing"
+    }
+  ],
+  "footer": [
+    {
+      "name": "About",
+      "menu": [
+        {
+          "text": "About Me",
+          "url": "/about-me"
+        },
+        {
+          "text": "Pricing",
+          "url": "/pricing"
+        },
+        {
+          "text": "Quick Start",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Services",
+      "menu": [
+        {
+          "text": "Features",
+          "url": "/pricing"
+        },
+        {
+          "text": "Platform",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Support",
+      "menu": [
+        {
+          "text": "FAQ",
+          "url": "/faq"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "/privacy-policy"
+        },
+        {
+          "text": "Terms & Conditions",
+          "url": "/terms-conditions"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "site": {
+    "title": "Dušan Spasojević | Data-Driven SEO & SEM to Dominate SERPs",
+    "base_url": "https://www.dusanspasojevic.com",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.webp",
+    "logo_width": "200",
+    "logo_height": "38",
+    "logo_text": "Dušan Spasojević"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Start Optimizing Today",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "Helping businesses grow with tailored SEO and SEM solutions.",
+    "copyright": "Developed By [Dušan Spasojević](https://www.dusanspasojevic.com/). All rights reserved."
+  },
+
+  "metadata": {
+    "meta_author": "Dušan Spasojević",
+    "meta_image": "/images/blog-5.webp",
+    "meta_description": "Discover actionable SEO and SEM insights to boost your website’s visibility, drive traffic, and achieve conversions. Stay ahead with expert tips and strategies.",
+    "meta_keywords": "SEO expert, SEM strategies, website optimization, drive traffic, boost rankings, Dušan Spasojević."
+  }
+}
