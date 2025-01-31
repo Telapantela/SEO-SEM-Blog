@@ -1,5 +1,5 @@
 ---
-title: "📊 First-Party Data Strategy: Complete 2025 Guide"
+title: "📊 First-Party Data Strategy: Complete Guide"
 meta_title: "First-Party Data Strategy: Mastering Marketing in a Cookieless Future"
 description: "Master the first-party data strategy to enhance targeting, personalization, and campaign effectiveness. Learn step-by-step implementation, real ROI-driven case studies, and 2025 trends."
 image: "/images/blog-5.webp"
