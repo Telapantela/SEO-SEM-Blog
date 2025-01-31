@@ -3,7 +3,7 @@ title: "What is AI-Powered Search?"
 meta_title: "AI-Powered Search: The Ultimate Guide to Dominating SEO in 2025"
 description: "Discover how AI-powered search transforms SEO in 2025. Learn key strategies, the difference between Google and AI search, and actionable tips to rank higher and secure featured snippets."
 image: "/images/blog-5.webp"
-date: 2025-01-03T05:00:00Z
+date: 2025-01-30T05:00:00Z
 draft: false
 author: "Dusan Spasojevic"
 keywords: "AI-powered search, SEO 2025, AI search ads, voice search optimization, structured data, featured snippets, conversational search"
