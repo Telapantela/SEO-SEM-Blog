@@ -3,7 +3,7 @@ title: "🔍 What is Visual Search?"
 meta_title: "Visual Search SEO: Complete Strategy Guide & Implementation"
 description: "Discover how visual search is transforming SEO. Learn advanced image optimization techniques, visual content strategies, and how to leverage AI-powered visual recognition to enhance your search visibility and user engagement."
 image: "/images/blog-5.webp"
-date: 2025-01-02T05:00:00Z
+date: 2024-12-31T05:00:00Z
 draft: false
 author: "Dusan Spasojevic"
 ---
