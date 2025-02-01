@@ -1,2 +1,2 @@
 # One domain to disavow
-domain:https://seo-tip.com/
+domain:seo-tip.com
