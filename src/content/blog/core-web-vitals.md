@@ -8,13 +8,13 @@ draft: false
 author: "Dusan Spasojevic"
 ---
 
-**Last Updated:** January 31, 2025  
-**Reading Time:** 18 minutes  
-**Author:** Dusan Spasojevic  
-**Expert Review:** ⭐⭐⭐⭐⭐  
-**Technical Difficulty:** Intermediate to Advanced
+**📅 Last Updated:** January 31, 2025  
+**⏳ Reading Time:** 18 minutes  
+**👤 Author:** Dusan Spasojevic  
+**⭐ Expert Review:** ⭐⭐⭐⭐⭐  
+**🎯 Technical Difficulty:** Intermediate to Advanced
 
-**In this guide, you will:**
+## 🚀 This Guide Will Help You:
 
 - 🚀 Master all Core Web Vitals metrics for 2025
 - 📈 Learn proven optimization techniques with real examples
