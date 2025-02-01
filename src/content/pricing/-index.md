@@ -1,5 +1,5 @@
 ---
-title: Pricing Plans | Dušan Spasojević
+title: Plans & Pricing | Dušan Spasojević
 description: "Explore my flexible pricing plans designed for small to medium-sized businesses. Find the perfect plan to meet your SEO and digital marketing needs with tailored SEO strategies, Google Ads management, detailed analytics, and personalized support."
 draft: false
 plans:
