@@ -1,2 +1,12 @@
-# One domain to disavow
+# Ten domain to disavow
+
+domain:socastsrm.com
+domain:timezonemap.org
+domain:backlinkup.co
+domain:muabannhadat.tv
+domain:indiatodays.in
 domain:seo-tip.com
+domain:backlink.wiki
+domain:gov.mex.com
+domain:openarticle.in
+domain:vickys.design
