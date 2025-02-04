@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-description: "meta description"
+description: "Get answers to common questions about our SEO and SEM services, including updates, discounts, custom solutions, support, and refund policies."
 draft: false
 faqs:
   - title: Will updates also be free?
