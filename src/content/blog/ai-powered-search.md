@@ -148,6 +148,7 @@ By applying these strategies, you'll improve your chances of landing featured sn
 - [How to Optimize for Voice Search](../blog/voice-search-optimization.md)
 - [Zero-Click Search](../blog/zero-click-search-results.md)
 - [Core Web Vitals](../blog/core-web-vitals.md)
+- _Want more? Check out_: [How To Write SEO Content](https://www.seomissioncontrol.com/blog/how-to-write-seo-content)
 
 ---
 

@@ -152,6 +152,7 @@ Core Web Vitals are more than just technical SEO—they shape user experience an
 - [AI-Powered Search](../blog/ai-powered-search.md)
 - [Zero-Click Search Results](../blog/zero-click-search-results.md)
 - [Visual Search Optimization](../blog/what-is-visual-search.md)
+- _Want more? Check out_: [How To Write SEO Content](https://www.seomissioncontrol.com/blog/how-to-write-seo-content)
 
 ### 🚀 Want More In-Depth SEO Insights?
 
